@@ -1,0 +1,1106 @@
+[
+  {
+    "country": "Bahamas",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 85.0,
+    "restaurantPriceIndex": 83.3
+  },
+  {
+    "country": "Malta",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 52.8,
+    "restaurantPriceIndex": 56.2
+  },
+  {
+    "country": "Kazakhstan",
+    "qualityOfLife": 81,
+    "adventure": 86,
+    "heritage": 83,
+    "costOfLivingIndex": 31.7,
+    "restaurantPriceIndex": 28.7
+  },
+  {
+    "country": "Poland",
+    "qualityOfLife": 22,
+    "adventure": 41,
+    "heritage": 30,
+    "costOfLivingIndex": 40.8,
+    "restaurantPriceIndex": 35.0
+  },
+  {
+    "country": "Georgia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 33.4,
+    "restaurantPriceIndex": 31.6
+  },
+  {
+    "country": "Dominican Republic",
+    "qualityOfLife": 61,
+    "adventure": 18,
+    "heritage": 56,
+    "costOfLivingIndex": 37.9,
+    "restaurantPriceIndex": 33.1
+  },
+  {
+    "country": "Latvia",
+    "qualityOfLife": 63,
+    "adventure": 68,
+    "heritage": 73,
+    "costOfLivingIndex": 49.1,
+    "restaurantPriceIndex": 44.9
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Bolivia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 27.6,
+    "restaurantPriceIndex": 19.4
+  },
+  {
+    "country": "Nepal",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 25.5,
+    "restaurantPriceIndex": 16.2
+  },
+  {
+    "country": "Bangladesh",
+    "qualityOfLife": 58,
+    "adventure": 82,
+    "heritage": 82,
+    "costOfLivingIndex": 22.5,
+    "restaurantPriceIndex": 12.8
+  },
+  {
+    "country": "Suriname",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Madagascar",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 24.5,
+    "restaurantPriceIndex": 14.3
+  },
+  {
+    "country": "Germany",
+    "qualityOfLife": 9,
+    "adventure": 43,
+    "heritage": 20,
+    "costOfLivingIndex": 62.2,
+    "restaurantPriceIndex": 52.8
+  },
+  {
+    "country": "Costa Rica",
+    "qualityOfLife": 50,
+    "adventure": 10,
+    "heritage": 45,
+    "costOfLivingIndex": 52.3,
+    "restaurantPriceIndex": 43.1
+  },
+  {
+    "country": "Spain",
+    "qualityOfLife": 18,
+    "adventure": 4,
+    "heritage": 3,
+    "costOfLivingIndex": 47.3,
+    "restaurantPriceIndex": 44.1
+  },
+  {
+    "country": "Grenada",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Iceland",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 83.0,
+    "restaurantPriceIndex": 86.8
+  },
+  {
+    "country": "Czechia",
+    "qualityOfLife": 29,
+    "adventure": 50,
+    "heritage": 48,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Moldova",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 34.0,
+    "restaurantPriceIndex": 26.6
+  },
+  {
+    "country": "Haiti",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "United Arab Emirates",
+    "qualityOfLife": 26,
+    "adventure": 48,
+    "heritage": 53,
+    "costOfLivingIndex": 55.8,
+    "restaurantPriceIndex": 49.2
+  },
+  {
+    "country": "Jamaica",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 53.9,
+    "restaurantPriceIndex": 38.8
+  },
+  {
+    "country": "Belarus",
+    "qualityOfLife": 84,
+    "adventure": 84,
+    "heritage": 87,
+    "costOfLivingIndex": 26.4,
+    "restaurantPriceIndex": 24.9
+  },
+  {
+    "country": "Bosnia And Herzegovina",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 35.0,
+    "restaurantPriceIndex": 22.4
+  },
+  {
+    "country": "Slovenia",
+    "qualityOfLife": 49,
+    "adventure": 62,
+    "heritage": 65,
+    "costOfLivingIndex": 49.9,
+    "restaurantPriceIndex": 43.4
+  },
+  {
+    "country": "Czech Republic",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 46.6,
+    "restaurantPriceIndex": 34.1
+  },
+  {
+    "country": "Singapore",
+    "qualityOfLife": 21,
+    "adventure": 16,
+    "heritage": 32,
+    "costOfLivingIndex": 76.7,
+    "restaurantPriceIndex": 50.4
+  },
+  {
+    "country": "Canada",
+    "qualityOfLife": 3,
+    "adventure": 20,
+    "heritage": 28,
+    "costOfLivingIndex": 64.8,
+    "restaurantPriceIndex": 61.7
+  },
+  {
+    "country": "Qatar",
+    "qualityOfLife": 27,
+    "adventure": 57,
+    "heritage": 67,
+    "costOfLivingIndex": 51.3,
+    "restaurantPriceIndex": 47.2
+  },
+  {
+    "country": "Myanmar",
+    "qualityOfLife": 75,
+    "adventure": 76,
+    "heritage": 77,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Oman",
+    "qualityOfLife": 65,
+    "adventure": 80,
+    "heritage": 72,
+    "costOfLivingIndex": 42.4,
+    "restaurantPriceIndex": 33.1
+  },
+  {
+    "country": "Zimbabwe",
+    "qualityOfLife": 78,
+    "adventure": 74,
+    "heritage": 75,
+    "costOfLivingIndex": 37.2,
+    "restaurantPriceIndex": 26.7
+  },
+  {
+    "country": "Cyprus",
+    "qualityOfLife": 54,
+    "adventure": 26,
+    "heritage": 49,
+    "costOfLivingIndex": 54.7,
+    "restaurantPriceIndex": 53.2
+  },
+  {
+    "country": "Peru",
+    "qualityOfLife": 62,
+    "adventure": 32,
+    "heritage": 25,
+    "costOfLivingIndex": 30.0,
+    "restaurantPriceIndex": 21.3
+  },
+  {
+    "country": "Argentina",
+    "qualityOfLife": 44,
+    "adventure": 12,
+    "heritage": 16,
+    "costOfLivingIndex": 29.4,
+    "restaurantPriceIndex": 24.8
+  },
+  {
+    "country": "Turkey",
+    "qualityOfLife": 32,
+    "adventure": 19,
+    "heritage": 8,
+    "costOfLivingIndex": 37.4,
+    "restaurantPriceIndex": 30.7
+  },
+  {
+    "country": "Fiji",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 35.4,
+    "restaurantPriceIndex": 28.4
+  },
+  {
+    "country": "Guatemala",
+    "qualityOfLife": 74,
+    "adventure": 59,
+    "heritage": 69,
+    "costOfLivingIndex": 38.8,
+    "restaurantPriceIndex": 31.1
+  },
+  {
+    "country": "Uruguay",
+    "qualityOfLife": 60,
+    "adventure": 51,
+    "heritage": 63,
+    "costOfLivingIndex": 54.1,
+    "restaurantPriceIndex": 50.2
+  },
+  {
+    "country": "Ukraine",
+    "qualityOfLife": 87,
+    "adventure": 85,
+    "heritage": 81,
+    "costOfLivingIndex": 25.9,
+    "restaurantPriceIndex": 20.7
+  },
+  {
+    "country": "Philippines",
+    "qualityOfLife": 37,
+    "adventure": 22,
+    "heritage": 36,
+    "costOfLivingIndex": 31.0,
+    "restaurantPriceIndex": 16.8
+  },
+  {
+    "country": "Austria",
+    "qualityOfLife": 12,
+    "adventure": 17,
+    "heritage": 18,
+    "costOfLivingIndex": 65.1,
+    "restaurantPriceIndex": 59.3
+  },
+  {
+    "country": "Algeria",
+    "qualityOfLife": 79,
+    "adventure": 78,
+    "heritage": 70,
+    "costOfLivingIndex": 28.9,
+    "restaurantPriceIndex": 14.0
+  },
+  {
+    "country": "Saint Lucia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Slovakia",
+    "qualityOfLife": 47,
+    "adventure": 66,
+    "heritage": 64,
+    "costOfLivingIndex": 46.7,
+    "restaurantPriceIndex": 34.5
+  },
+  {
+    "country": "Uganda",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 29.1,
+    "restaurantPriceIndex": 21.6
+  },
+  {
+    "country": "El Salvador",
+    "qualityOfLife": 77,
+    "adventure": 58,
+    "heritage": 71,
+    "costOfLivingIndex": 39.5,
+    "restaurantPriceIndex": 29.6
+  },
+  {
+    "country": "North Macedonia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 33.0,
+    "restaurantPriceIndex": 22.1
+  },
+  {
+    "country": "Armenia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 41.0,
+    "restaurantPriceIndex": 38.9
+  },
+  {
+    "country": "Thailand",
+    "qualityOfLife": 34,
+    "adventure": 5,
+    "heritage": 9,
+    "costOfLivingIndex": 34.1,
+    "restaurantPriceIndex": 18.3
+  },
+  {
+    "country": "Hong Kong (China)",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 70.8,
+    "restaurantPriceIndex": 46.2
+  },
+  {
+    "country": "Greece",
+    "qualityOfLife": 28,
+    "adventure": 3,
+    "heritage": 2,
+    "costOfLivingIndex": 52.0,
+    "restaurantPriceIndex": 51.3
+  },
+  {
+    "country": "Mauritius",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 37.1,
+    "restaurantPriceIndex": 26.5
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "New Zealand",
+    "qualityOfLife": 10,
+    "adventure": 7,
+    "heritage": 26,
+    "costOfLivingIndex": 64.6,
+    "restaurantPriceIndex": 57.1
+  },
+  {
+    "country": "Kosovo (Disputed Territory)",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 29.5,
+    "restaurantPriceIndex": 20.6
+  },
+  {
+    "country": "South Korea",
+    "qualityOfLife": 24,
+    "adventure": 54,
+    "heritage": 31,
+    "costOfLivingIndex": 60.1,
+    "restaurantPriceIndex": 31.4
+  },
+  {
+    "country": "Libya",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 20.4,
+    "restaurantPriceIndex": 15.2
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "China",
+    "qualityOfLife": 25,
+    "adventure": 61,
+    "heritage": 13,
+    "costOfLivingIndex": 31.7,
+    "restaurantPriceIndex": 20.6
+  },
+  {
+    "country": "Romania",
+    "qualityOfLife": 40,
+    "adventure": 47,
+    "heritage": 46,
+    "costOfLivingIndex": 37.5,
+    "restaurantPriceIndex": 35.5
+  },
+  {
+    "country": "Jordan",
+    "qualityOfLife": 68,
+    "adventure": 60,
+    "heritage": 47,
+    "costOfLivingIndex": 41.2,
+    "restaurantPriceIndex": 34.8
+  },
+  {
+    "country": "Hungary",
+    "qualityOfLife": 35,
+    "adventure": 52,
+    "heritage": 39,
+    "costOfLivingIndex": 41.7,
+    "restaurantPriceIndex": 37.0
+  },
+  {
+    "country": "Cambodia",
+    "qualityOfLife": 56,
+    "adventure": 63,
+    "heritage": 55,
+    "costOfLivingIndex": 37.3,
+    "restaurantPriceIndex": 22.7
+  },
+  {
+    "country": "Egypt",
+    "qualityOfLife": 52,
+    "adventure": 25,
+    "heritage": 7,
+    "costOfLivingIndex": 21.0,
+    "restaurantPriceIndex": 16.2
+  },
+  {
+    "country": "Lithuania",
+    "qualityOfLife": 57,
+    "adventure": 71,
+    "heritage": 76,
+    "costOfLivingIndex": 47.1,
+    "restaurantPriceIndex": 43.5
+  },
+  {
+    "country": "Sri Lanka",
+    "qualityOfLife": 66,
+    "adventure": 44,
+    "heritage": 54,
+    "costOfLivingIndex": 34.6,
+    "restaurantPriceIndex": 18.5
+  },
+  {
+    "country": "Denmark",
+    "qualityOfLife": 4,
+    "adventure": 28,
+    "heritage": 35,
+    "costOfLivingIndex": 72.3,
+    "restaurantPriceIndex": 81.3
+  },
+  {
+    "country": "Trinidad And Tobago",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 52.6,
+    "restaurantPriceIndex": 43.9
+  },
+  {
+    "country": "Honduras",
+    "qualityOfLife": 80,
+    "adventure": 64,
+    "heritage": 78,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Russia",
+    "qualityOfLife": 51,
+    "adventure": 79,
+    "heritage": 43,
+    "costOfLivingIndex": 31.0,
+    "restaurantPriceIndex": 28.0
+  },
+  {
+    "country": "Chile",
+    "qualityOfLife": 53,
+    "adventure": 37,
+    "heritage": 38,
+    "costOfLivingIndex": 39.1,
+    "restaurantPriceIndex": 34.8
+  },
+  {
+    "country": "Sweden",
+    "qualityOfLife": 1,
+    "adventure": 24,
+    "heritage": 44,
+    "costOfLivingIndex": 59.3,
+    "restaurantPriceIndex": 54.7
+  },
+  {
+    "country": "Cuba",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 46.7,
+    "restaurantPriceIndex": 26.0
+  },
+  {
+    "country": "Japan",
+    "qualityOfLife": 14,
+    "adventure": 30,
+    "heritage": 6,
+    "costOfLivingIndex": 46.1,
+    "restaurantPriceIndex": 27.8
+  },
+  {
+    "country": "Panama",
+    "qualityOfLife": 71,
+    "adventure": 39,
+    "heritage": 62,
+    "costOfLivingIndex": 46.4,
+    "restaurantPriceIndex": 42.2
+  },
+  {
+    "country": "Mexico",
+    "qualityOfLife": 41,
+    "adventure": 9,
+    "heritage": 5,
+    "costOfLivingIndex": 40.2,
+    "restaurantPriceIndex": 35.7
+  },
+  {
+    "country": "Kuwait",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 42.1,
+    "restaurantPriceIndex": 36.4
+  },
+  {
+    "country": "Seychelles",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "United States",
+    "qualityOfLife": 23,
+    "adventure": 33,
+    "heritage": 21,
+    "costOfLivingIndex": 70.4,
+    "restaurantPriceIndex": 67.2
+  },
+  {
+    "country": "Venezuela",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 38.3,
+    "restaurantPriceIndex": 37.7
+  },
+  {
+    "country": "Albania",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 42.1,
+    "restaurantPriceIndex": 35.7
+  },
+  {
+    "country": "Kenya",
+    "qualityOfLife": 70,
+    "adventure": 56,
+    "heritage": 57,
+    "costOfLivingIndex": 30.2,
+    "restaurantPriceIndex": 22.1
+  },
+  {
+    "country": "South Africa",
+    "qualityOfLife": 55,
+    "adventure": 35,
+    "heritage": 24,
+    "costOfLivingIndex": 34.5,
+    "restaurantPriceIndex": 29.5
+  },
+  {
+    "country": "Colombia",
+    "qualityOfLife": 67,
+    "adventure": 40,
+    "heritage": 40,
+    "costOfLivingIndex": 28.8,
+    "restaurantPriceIndex": 20.5
+  },
+  {
+    "country": "Tunisia",
+    "qualityOfLife": 64,
+    "adventure": 49,
+    "heritage": 52,
+    "costOfLivingIndex": 28.1,
+    "restaurantPriceIndex": 15.0
+  },
+  {
+    "country": "Indonesia",
+    "qualityOfLife": 38,
+    "adventure": 34,
+    "heritage": 22,
+    "costOfLivingIndex": 26.7,
+    "restaurantPriceIndex": 13.5
+  },
+  {
+    "country": "India",
+    "qualityOfLife": 39,
+    "adventure": 53,
+    "heritage": 10,
+    "costOfLivingIndex": 21.2,
+    "restaurantPriceIndex": 15.1
+  },
+  {
+    "country": "Nigeria",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 31.4,
+    "restaurantPriceIndex": 20.6
+  },
+  {
+    "country": "Azerbaijan",
+    "qualityOfLife": 82,
+    "adventure": 72,
+    "heritage": 80,
+    "costOfLivingIndex": 31.2,
+    "restaurantPriceIndex": 31.8
+  },
+  {
+    "country": "Netherlands",
+    "qualityOfLife": 7,
+    "adventure": 15,
+    "heritage": 27,
+    "costOfLivingIndex": 63.1,
+    "restaurantPriceIndex": 61.2
+  },
+  {
+    "country": "Belize",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Morocco",
+    "qualityOfLife": 48,
+    "adventure": 21,
+    "heritage": 14,
+    "costOfLivingIndex": 29.5,
+    "restaurantPriceIndex": 20.7
+  },
+  {
+    "country": "Australia",
+    "qualityOfLife": 8,
+    "adventure": 8,
+    "heritage": 19,
+    "costOfLivingIndex": 70.2,
+    "restaurantPriceIndex": 62.5
+  },
+  {
+    "country": "Serbia",
+    "qualityOfLife": 73,
+    "adventure": 77,
+    "heritage": 66,
+    "costOfLivingIndex": 37.7,
+    "restaurantPriceIndex": 31.2
+  },
+  {
+    "country": "Iraq",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 29.3,
+    "restaurantPriceIndex": 20.9
+  },
+  {
+    "country": "Estonia",
+    "qualityOfLife": 45,
+    "adventure": 65,
+    "heritage": 68,
+    "costOfLivingIndex": 52.0,
+    "restaurantPriceIndex": 50.6
+  },
+  {
+    "country": "Vietnam",
+    "qualityOfLife": 36,
+    "adventure": 42,
+    "heritage": 29,
+    "costOfLivingIndex": 28.7,
+    "restaurantPriceIndex": 14.8
+  },
+  {
+    "country": "United Kingdom",
+    "qualityOfLife": 13,
+    "adventure": 38,
+    "heritage": 15,
+    "costOfLivingIndex": 62.0,
+    "restaurantPriceIndex": 62.7
+  },
+  {
+    "country": "Palestine",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 41.6,
+    "restaurantPriceIndex": 27.4
+  },
+  {
+    "country": "Cameroon",
+    "qualityOfLife": 76,
+    "adventure": 70,
+    "heritage": 79,
+    "costOfLivingIndex": 37.3,
+    "restaurantPriceIndex": 35.3
+  },
+  {
+    "country": "Norway",
+    "qualityOfLife": 2,
+    "adventure": 23,
+    "heritage": 34,
+    "costOfLivingIndex": 76.0,
+    "restaurantPriceIndex": 73.5
+  },
+  {
+    "country": "Tanzania",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 23.8,
+    "restaurantPriceIndex": 16.5
+  },
+  {
+    "country": "Syria",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 24.0,
+    "restaurantPriceIndex": 15.3
+  },
+  {
+    "country": "Saudi Arabia",
+    "qualityOfLife": 30,
+    "adventure": 75,
+    "heritage": 51,
+    "costOfLivingIndex": 45.3,
+    "restaurantPriceIndex": 30.9
+  },
+  {
+    "country": "Malaysia",
+    "qualityOfLife": 31,
+    "adventure": 31,
+    "heritage": 33,
+    "costOfLivingIndex": 30.0,
+    "restaurantPriceIndex": 18.9
+  },
+  {
+    "country": "Iran",
+    "qualityOfLife": 86,
+    "adventure": 87,
+    "heritage": 74,
+    "costOfLivingIndex": 26.4,
+    "restaurantPriceIndex": 16.3
+  },
+  {
+    "country": "Ghana",
+    "qualityOfLife": 72,
+    "adventure": 73,
+    "heritage": 84,
+    "costOfLivingIndex": 30.9,
+    "restaurantPriceIndex": 26.9
+  },
+  {
+    "country": "Croatia",
+    "qualityOfLife": 33,
+    "adventure": 29,
+    "heritage": 41,
+    "costOfLivingIndex": 45.5,
+    "restaurantPriceIndex": 42.2
+  },
+  {
+    "country": "Bulgaria",
+    "qualityOfLife": 42,
+    "adventure": 55,
+    "heritage": 58,
+    "costOfLivingIndex": 38.3,
+    "restaurantPriceIndex": 34.7
+  },
+  {
+    "country": "Montenegro",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 39.4,
+    "restaurantPriceIndex": 36.3
+  },
+  {
+    "country": "Finland",
+    "qualityOfLife": 5,
+    "adventure": 27,
+    "heritage": 50,
+    "costOfLivingIndex": 63.2,
+    "restaurantPriceIndex": 63.6
+  },
+  {
+    "country": "Belgium",
+    "qualityOfLife": 11,
+    "adventure": 36,
+    "heritage": 42,
+    "costOfLivingIndex": 61.1,
+    "restaurantPriceIndex": 66.0
+  },
+  {
+    "country": "Taiwan",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 45.2,
+    "restaurantPriceIndex": 23.0
+  },
+  {
+    "country": "Mongolia",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Paraguay",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 25.4,
+    "restaurantPriceIndex": 17.6
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Lebanon",
+    "qualityOfLife": 85,
+    "adventure": 69,
+    "heritage": 59,
+    "costOfLivingIndex": 41.8,
+    "restaurantPriceIndex": 37.1
+  },
+  {
+    "country": "France",
+    "qualityOfLife": 17,
+    "adventure": 11,
+    "heritage": 4,
+    "costOfLivingIndex": 63.7,
+    "restaurantPriceIndex": 56.3
+  },
+  {
+    "country": "Pakistan",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 18.8,
+    "restaurantPriceIndex": 12.9
+  },
+  {
+    "country": "Puerto Rico",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 63.3,
+    "restaurantPriceIndex": 53.1
+  },
+  {
+    "country": "Botswana",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 30.1,
+    "restaurantPriceIndex": 22.5
+  },
+  {
+    "country": "Ecuador",
+    "qualityOfLife": 69,
+    "adventure": 45,
+    "heritage": 61,
+    "costOfLivingIndex": 32.6,
+    "restaurantPriceIndex": 24.5
+  },
+  {
+    "country": "Dominica",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Barbados",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 76.6,
+    "restaurantPriceIndex": 69.4
+  },
+  {
+    "country": "Luxembourg",
+    "qualityOfLife": 16,
+    "adventure": 46,
+    "heritage": 60,
+    "costOfLivingIndex": 62.4,
+    "restaurantPriceIndex": 68.7
+  },
+  {
+    "country": "Guyana",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Israel",
+    "qualityOfLife": 43,
+    "adventure": 67,
+    "heritage": 37,
+    "costOfLivingIndex": 62.7,
+    "restaurantPriceIndex": 68.0
+  },
+  {
+    "country": "Brazil",
+    "qualityOfLife": 46,
+    "adventure": 1,
+    "heritage": 12,
+    "costOfLivingIndex": 30.2,
+    "restaurantPriceIndex": 22.6
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": null,
+    "restaurantPriceIndex": null
+  },
+  {
+    "country": "Switzerland",
+    "qualityOfLife": 6,
+    "adventure": 13,
+    "heritage": 23,
+    "costOfLivingIndex": 101.1,
+    "restaurantPriceIndex": 97.0
+  },
+  {
+    "country": "Portugal",
+    "qualityOfLife": 19,
+    "adventure": 6,
+    "heritage": 11,
+    "costOfLivingIndex": 45.1,
+    "restaurantPriceIndex": 36.9
+  },
+  {
+    "country": "Ireland",
+    "qualityOfLife": 15,
+    "adventure": 14,
+    "heritage": 17,
+    "costOfLivingIndex": 64.4,
+    "restaurantPriceIndex": 65.3
+  },
+  {
+    "country": "Italy",
+    "qualityOfLife": 20,
+    "adventure": 2,
+    "heritage": 1,
+    "costOfLivingIndex": 56.2,
+    "restaurantPriceIndex": 53.3
+  },
+  {
+    "country": "Bahrain",
+    "qualityOfLife": 59,
+    "adventure": 81,
+    "heritage": 85,
+    "costOfLivingIndex": 52.3,
+    "restaurantPriceIndex": 44.7
+  },
+  {
+    "country": "Kyrgyzstan",
+    "qualityOfLife": null,
+    "adventure": null,
+    "heritage": null,
+    "costOfLivingIndex": 27.6,
+    "restaurantPriceIndex": 20.2
+  },
+  {
+    "country": "Uzbekistan",
+    "qualityOfLife": 83,
+    "adventure": 83,
+    "heritage": 86,
+    "costOfLivingIndex": 26.4,
+    "restaurantPriceIndex": 18.6
+  }
+]
