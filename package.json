@@ -1,0 +1,33 @@
+{
+  "name": "smart-tourism-api",
+  "version": "1.0.0",
+  "description": "Smart Tourism API",
+  "homepage": "https://github.com/dimitrisstyl7/smart-tourism-api#readme",
+  "bugs": {
+    "url": "https://github.com/dimitrisstyl7/smart-tourism-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitrisstyl7/smart-tourism-api.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "mongodb"
+  ],
+  "author": "Dimitris Stylianou",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0"
+  }
+}
