@@ -10,37 +10,39 @@ const countrySchema = new Schema(
         },
         qualityOfLife: {
             type: Number,
-            required: true,
             min: 0,
-            default: 0,
+            default: null,
         },
         adventure: {
             type: Number,
-            required: true,
             min: 0,
-            default: 0,
+            default: null,
         },
         heritage: {
             type: Number,
-            required: true,
             min: 0,
-            default: 0,
+            default: null,
         },
         costOfLivingIndex: {
             type: Number,
-            required: true,
             min: 0,
-            default: 0,
+            default: null,
         },
         restaurantPriceIndex: {
             type: Number,
-            required: true,
             min: 0,
-            default: 0,
+            default: null,
         },
     },
     {timestamps: true}
 );
+
+// Override `toJSON` method
+countrySchema.method("toJSON", function () {
+    const {__v, _id, ...object} = this.toObject();
+    object.id = _id;
+    return object;
+});
 
 const Country = mongoose.model("Country", countrySchema);
 export default Country;
