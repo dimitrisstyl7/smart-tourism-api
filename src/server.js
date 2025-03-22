@@ -1,6 +1,6 @@
 import app from "./app.js";
 import dotenv from "dotenv";
-import {connectDB, initDB} from "./config/db_config.js";
+import {connectDB, initDB} from "./configs/db.config.js";
 import * as path from "node:path";
 
 dotenv.config();
@@ -12,4 +12,5 @@ await connectDB(dbUrl); // Connect to the database
 await initDB(filePath); // Initialize database with data
 
 app.listen(port, () => {
+    console.log(`✅ Server is up and running on port ${port}`);
 });

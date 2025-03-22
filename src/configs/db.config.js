@@ -1,20 +1,10 @@
 import mongoose from "mongoose";
-import Country from "../models/Country.js";
+import Country from "../models/country.model.js";
 import fs from "node:fs";
 
 const countriesCollection = "countries";
 
-const loadCountriesFromJsonFile = (filePath) => {
-    const countries = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-
-    // Remove keys with non-valid values
-    countries.forEach(country => {
-        for (const [key, value] of Object.entries(country)) {
-            if (!value) delete country[key];
-        }
-    })
-    return countries
-}
+const loadCountriesFromJsonFile = (filePath) => JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
 const initDB = async (filePath) => {
     try {
