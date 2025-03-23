@@ -13,7 +13,7 @@ The Smart Tourism API is a web service designed to support functionality for sma
 ## Features
 - **Fetch Countries**: Retrieve a list of all countries available in the database.
 - **Filter and Sort**: Filter countries by cost of living, quality of life, and other defined criteria, and sort results based on user preferences.
-- **CRUD Operations**: Manage country data with full Create, Read, Update, and Delete functionalities.
+- **CRUD Operations**: Manage country data with Create, Read, Update, and Delete functionalities.
 
 ## Acknowledgments
 This project was developed as part of the "Advanced Programming Full Stack Javascript Frameworks" MSc course at the University of Piraeus. Contributions and feedback are always welcome!
