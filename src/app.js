@@ -6,6 +6,6 @@ const app = express();
 
 app.use(express.json());
 app.use(morgan("dev"));
-app.use("/api/country", countryRouter);
+app.use("/api/v1/countries", countryRouter);
 
 export default app;
