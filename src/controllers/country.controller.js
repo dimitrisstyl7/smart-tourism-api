@@ -1,5 +1,5 @@
 import Country from "../models/country.model.js";
-import {validateCountryModel} from "../utils/model.validation.js";
+import {validateCountryModel} from "../validations/model.validation.js";
 
 const CountryController = {
     findAll: async (req, res) => {
