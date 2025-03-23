@@ -5,5 +5,17 @@ services:
       - "27017:27017"
     volumes:
       - db_data:/data/db
+
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongodb
+    environment:
+      - PORT=3000
+      - MONGODB_URL=mongodb://mongodb:27017/tourismDB
+      - FILE_PATH=/data/countries.json
+
 volumes:
   db_data:

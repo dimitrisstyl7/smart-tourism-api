@@ -1,12 +1,9 @@
 import app from "./app.js";
-import dotenv from "dotenv";
 import {connectDB, initDB} from "./configs/db.config.js";
-import * as path from "node:path";
 
-dotenv.config();
-const port = process.env.PORT || 3000;
-const dbUrl = process.env.MONGODB_URL || "mongodb://localhost:27017/tourismDB";
-const filePath = process.env.FILE_PATH || path.resolve(process.cwd(), "data", "countries.json");
+const port = process.env.PORT;
+const dbUrl = process.env.MONGODB_URL;
+const filePath = process.env.FILE_PATH;
 
 await connectDB(dbUrl); // Connect to the database
 await initDB(filePath); // Initialize database with data
